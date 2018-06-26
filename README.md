@@ -7,7 +7,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 
 | Título charla   | Ponente   | Fecha  | Link Meetup   | Slides  | Link charla  | Issue propuesta |
 |---|---|---|---|---|---|---|
-|   | Cristian Álvarez ([Github](https://github.com/belaustegui)) | 05/07/2018  | -  | -  | -  | -   |
+|   | Cristian Álvarez ([Github](https://github.com/belaustegui)) | 05/07/2018  | [Link](#)  | [Link](#)  | [Link](#)  | [Link](#)   |
 
 ----------------------------
 
