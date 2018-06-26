@@ -5,9 +5,9 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 
 ## 2018
 
-| Título   | Ponente   | Fecha  | Meetup   | Slides  | Vídeo  | Propuesta |
+| Título  | Ponente  | Fecha  | Propuesta  | Meetup  | Slides  | Vídeo  |
 |---|---|---|---|---|---|---|
-| Añadiendo dinamismo al cliente desde Elixir con Frankt  | Cristian Álvarez ([Github](https://github.com/belaustegui)) | 05/07/2018  | [Link](https://www.meetup.com/Elixir-Asturias/events/252160802/)  | [Link](#)  | [Link](#)  | [Link](https://github.com/elixirasturias/propuestas/issues/1)   |
+| Añadiendo dinamismo al cliente desde Elixir con Frankt  | Cristian Álvarez ([Github](https://github.com/belaustegui))  | 05/07/2018  | [Link](https://github.com/elixirasturias/propuestas/issues/1)  | [Link](https://www.meetup.com/Elixir-Asturias/events/252160802/)  | [Link](#)  | [Link](#)  |
 
 ----------------------------
 
