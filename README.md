@@ -7,7 +7,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 
 | Título   | Ponente   | Fecha  | Meetup   | Slides  | Vídeo  | Propuesta |
 |---|---|---|---|---|---|---|
-|   | Cristian Álvarez ([Github](https://github.com/belaustegui)) | 05/07/2018  | [Link](#)  | [Link](#)  | [Link](#)  | [Link](#)   |
+|   | Cristian Álvarez ([Github](https://github.com/belaustegui)) | 05/07/2018  | [Link](https://www.meetup.com/Elixir-Asturias/events/252160802/)  | [Link](#)  | [Link](#)  | [Link](https://github.com/elixirasturias/propuestas/issues/1)   |
 
 ----------------------------
 
