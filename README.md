@@ -3,11 +3,25 @@
 Repositorio para almacenar la información de las diferentes actividades de **Elixir Asturias**.
 Todas las actividades realizadas aquí han pasado antes por nuestro repositorio de [propuestas](https://github.com/elixirasturias/propuestas).
 
+## Tabla de contenidos
+
+- [2018](#2018)
+  * [Añadiendo dinamismo al cliente desde Elixir con Frankt](#añadiendo-dinamismo-al-cliente-desde-elixir-con-frankt)
+
 ## 2018
 
-| Título  | Ponente  | Fecha  | Propuesta  | Meetup  | Slides  | Vídeo  |
-|---|---|---|---|---|---|---|
-| Añadiendo dinamismo al cliente desde Elixir con Frankt  | Cristian Álvarez ([Github](https://github.com/belaustegui))  | 05/07/2018  | [Link](https://github.com/elixirasturias/propuestas/issues/1)  | [Link](https://www.meetup.com/Elixir-Asturias/events/252160802/)  | [Link](#)  | [Link](#)  |
+Información sobre los Meetups celebrados durante el año **2018**.
+
+### Añadiendo dinamismo al cliente desde Elixir con Frankt
+
+| **Ponente** | Cristian Álvarez ([Github](https://github.com/belaustegui)) |
+|---:|---|
+| **Fecha** | 05/07/2018 |
+| **Propuesta** | [Link](https://github.com/elixirasturias/propuestas/issues/1) |
+| **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/252160802/) |
+| **Slides** | [Link Slides]() |
+| **Vídeo** | [Link Youtube]() |
+| **Referencias** | |
 
 ----------------------------
 
