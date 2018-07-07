@@ -17,7 +17,7 @@ Información sobre los Meetups celebrados durante el año **2018**.
 | **Ponente** | Cristian Álvarez ([Github](https://github.com/belaustegui)) |
 |---:|---|
 | **Fecha** | 05/07/2018 |
-| **Propuesta** | [Link](https://github.com/elixirasturias/propuestas/issues/1) |
+| **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/1) |
 | **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/252160802/) |
 | **Slides** | [Link Slides]() |
 | **Vídeo** | [Link Youtube]() |
