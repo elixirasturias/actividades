@@ -19,7 +19,7 @@ Información sobre los Meetups celebrados durante el año **2018**.
 | **Fecha** | 05/07/2018 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/1) |
 | **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/252160802/) |
-| **Slides** | [Link Slides]() |
+| **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/files/slides/2018/july/Dinamizando.el.cliente.con.Frankt.pdf) |
 | **Vídeo** | [Link Youtube]() |
 | **Referencias** | [Drab: Remote controlled frontend framework for Phoenix](https://github.com/grych/drab) · [Phoenix WebSockets under a microscope](https://zorbash.com/post/phoenix-websockets-under-a-microscope/) · [RFC6455 The WebSocket protocol](https://tools.ietf.org/html/rfc6455) · [WebSocket support across different browsers](https://caniuse.com/#feat=websockets) |
 
