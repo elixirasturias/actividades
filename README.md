@@ -18,7 +18,7 @@ Información sobre los Meetups celebrados durante el año **2018**.
 | **Ponente** | Marta Medio ([Github](https://github.com/martamedio)) |
 |---:|:---|
 | **Fecha** | 13/09/2018 |
-| **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/3) |
+| **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/3) |
 | **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/254005415/) |
 | **Slides** | [Link Slides](#) |
 | **Vídeo** | [Link Youtube](#) |
