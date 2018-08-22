@@ -6,7 +6,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 ## Tabla de contenidos
 
 - [2018](#2018)
-  * [Introducción a Elixir: Chat con Phoenix paso a paso](#introduccion-a-elixir-chat-con-phoenix-paso-a-paso)
+  * [Introducción a Elixir: Chat con Phoenix paso a paso](#introducción-a-elixir-chat-con-phoenix-paso-a-paso)
   * [Añadiendo dinamismo al cliente desde Elixir con Frankt](#añadiendo-dinamismo-al-cliente-desde-elixir-con-frankt)
 
 ## 2018
