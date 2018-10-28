@@ -32,9 +32,9 @@ Información sobre los Meetups celebrados durante el año **2018**.
 | **Fecha** | 13/09/2018 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/3) |
 | **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/254005415/) |
-| **Slides** | [Link Slides](#) |
+| **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/files/slides/2018/september/Introduccion.a.Elixir.chat.con.Phoenix.paso.a.paso.pdf) |
 | **Vídeo** | [Link Youtube](#) |
-| **Referencias** | [Elixir Docs](https://elixir-lang.org/docs.html) · [Phoenix Framework Docs](https://hexdocs.pm/phoenix/Phoenix.html) |
+| **Referencias** | [Ejemplo de chat](https://github.com/martamedio/Phoenix-Chat) · [Elixir Docs](https://elixir-lang.org/docs.html) · [Phoenix Framework Docs](https://hexdocs.pm/phoenix/Phoenix.html) |
 
 ### Añadiendo dinamismo al cliente desde Elixir con Frankt
 
