@@ -3,49 +3,10 @@
 Repositorio para almacenar la información de las diferentes actividades de **Elixir Asturias**.
 Todas las actividades realizadas aquí han pasado antes por nuestro repositorio de [propuestas](https://github.com/elixirasturias/propuestas).
 
-## Tabla de contenidos
+## Tabla De Contenidos
 
-- [2018](#2018)
-  * [Lleva tu idea a producción: cómo crear un MVP con Phoenix Framework](#lleva-tu-idea-a-producción-cómo-crear-un-mvp-con-phoenix-framework)
-  * [Introducción a Elixir: Chat con Phoenix paso a paso](#introducción-a-elixir-chat-con-phoenix-paso-a-paso)
-  * [Añadiendo dinamismo al cliente desde Elixir con Frankt](#añadiendo-dinamismo-al-cliente-desde-elixir-con-frankt)
-
-## 2018
-
-Información sobre los Meetups celebrados durante el año **2018**.
-
-### Lleva tu idea a producción: cómo crear un MVP con Phoenix Framework
-
-| **Ponente** | Iván González ([Github](https://github.com/dreamingechoes)) |
-|---:|:---|
-| **Fecha** | 26/10/2018 |
-| **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/2) |
-| **Meetup** | [Link Meetup](https://www.meetup.com/es-ES/Elixir-Asturias/events/255555094/) |
-| **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/files/slides/2018/october/Create.an.mvp.with.phoenix.framework.pdf) |
-| **Vídeo** | [Link Youtube](#) |
-| **Referencias** | [Repositorio de recursos de la charla](https://github.com/dreamingechoes/create-an-mvp-with-phoenix-framework) · [Phoenix Framework Docs](https://hexdocs.pm/phoenix/Phoenix.html) · [Ecto Docs](https://hexdocs.pm/ecto/Ecto.html) |
-
-### Introducción a Elixir: Chat con Phoenix paso a paso
-
-| **Ponente** | Marta Medio ([Github](https://github.com/martamedio)) |
-|---:|:---|
-| **Fecha** | 13/09/2018 |
-| **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/3) |
-| **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/254005415/) |
-| **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/files/slides/2018/september/Introduccion.a.Elixir.chat.con.Phoenix.paso.a.paso.pdf) |
-| **Vídeo** | [Link Youtube](#) |
-| **Referencias** | [Ejemplo de chat](https://github.com/martamedio/Phoenix-Chat) · [Elixir Docs](https://elixir-lang.org/docs.html) · [Phoenix Framework Docs](https://hexdocs.pm/phoenix/Phoenix.html) |
-
-### Añadiendo dinamismo al cliente desde Elixir con Frankt
-
-| **Ponente** | Cristian Álvarez ([Github](https://github.com/belaustegui)) |
-|---:|:---|
-| **Fecha** | 05/07/2018 |
-| **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/1) |
-| **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/252160802/) |
-| **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/files/slides/2018/july/Dinamizando.el.cliente.con.Frankt.pdf) |
-| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=MwjKJjqOVKM) |
-| **Referencias** | [Drab: Remote controlled frontend framework for Phoenix](https://github.com/grych/drab) · [Phoenix WebSockets under a microscope](https://zorbash.com/post/phoenix-websockets-under-a-microscope/) · [RFC6455 The WebSocket protocol](https://tools.ietf.org/html/rfc6455) · [WebSocket support across different browsers](https://caniuse.com/#feat=websockets) |
+* [Meetups de 2019](./2019/README.md)
+* [Meetups de 2018](./2018/README.md)
 
 ----------------------------
 
