@@ -3,7 +3,7 @@
 Repositorio para almacenar la información de las diferentes actividades de **Elixir Asturias**.
 Todas las actividades realizadas aquí han pasado antes por nuestro repositorio de [propuestas](https://github.com/elixirasturias/propuestas).
 
-## Tabla De Contenidos
+## Tabla de contenidos
 
 * [Meetups de 2019](./2019/README.md)
 * [Meetups de 2018](./2018/README.md)
