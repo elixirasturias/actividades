@@ -14,7 +14,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 | **Fecha** | 24/01/2019 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/4) |
 | **Meetup** | [Link Meetup](#) |
-| **Slides** | [Link Slides](#)) |
+| **Slides** | [Link Slides](#) |
 | **Vídeo** | [Link Youtube](#) |
 | **Referencias** | |
 
