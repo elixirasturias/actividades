@@ -15,6 +15,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 |---:|:---|
 | **Fecha** | 26/10/2018 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/2) |
+| **Nivel** | Principiante |
 | **Meetup** | [Link Meetup](https://www.meetup.com/es-ES/Elixir-Asturias/events/255555094/) |
 | **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/2018/files/slides/october/Create.an.mvp.with.phoenix.framework.pdf) |
 | **Vídeo** | [Link Youtube](#) |
@@ -26,6 +27,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 |---:|:---|
 | **Fecha** | 13/09/2018 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/3) |
+| **Nivel** | Principiante |
 | **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/254005415/) |
 | **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/2018/files/slides/september/Introduccion.a.Elixir.chat.con.Phoenix.paso.a.paso.pdf) |
 | **Vídeo** | [Link Youtube](#) |
@@ -37,6 +39,7 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 |---:|:---|
 | **Fecha** | 05/07/2018 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/1) |
+| **Nivel** | Intermedio |
 | **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/252160802/) |
 | **Slides** | [Link Slides](https://github.com/elixirasturias/actividades/raw/master/2018/files/slides/july/Dinamizando.el.cliente.con.Frankt.pdf) |
 | **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=MwjKJjqOVKM) |
