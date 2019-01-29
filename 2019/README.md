@@ -14,10 +14,10 @@ Todas las actividades realizadas aquí han pasado antes por nuestro repositorio 
 | **Fecha** | 24/01/2019 |
 | **Propuesta** | [Link Propuesta](https://github.com/elixirasturias/propuestas/issues/4) |
 | **Nivel** | Principiante |
-| **Meetup** | [Link Meetup](#) |
+| **Meetup** | [Link Meetup](https://www.meetup.com/Elixir-Asturias/events/257928606/) |
 | **Slides** | [Link Slides](#) |
-| **Vídeo** | [Link Youtube](#) |
-| **Referencias** | |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=gB8l93LrbWo) |
+| **Referencias** | [Repositorio API charla](https://github.com/noeliaena/first-api-elixir) · [Ecto Docs](https://hexdocs.pm/ecto/Ecto.html) · [Postgrex Docs](https://hexdocs.pm/postgrex/readme.html) · [Plug Docs](https://hexdocs.pm/plug/readme.html) · [PlugCowboy Docs](https://hexdocs.pm/plug_cowboy/Plug.Cowboy.html) · [Jason Docs](https://hexdocs.pm/jason/readme.html) |
 
 ----------------------------
 
